@@ -1,32 +1,34 @@
 “Building AI course project”
 
-# LifeCloudRemember AI: Memory Companion
+# LibraryLifeCloud AI: Memory Companion
 
 Final project for the Building AI course
 
 ## Summary
 
-LifeCloudRemember AI is a digital memory assistant that helps users store, organize, and narrate their life stories. By integrating various data sources, it enables individuals, especially those with memory challenges, to relive important moments and maintain emotional connections.
+LibraryLifeCloud AI is a digital memory assistant that helps users store, organize, and narrate their life stories. By integrating various data sources, it enables individuals, especially those with memory challenges, to relive important moments and maintain emotional connections. This AI could be developed into an app featuring a library icon, where users interact with a personalized librarian character who guides them to the memory books they seek.
 
 ## Background
 
-LifeCloudRemember AI addresses the challenge of memory decline and the difficulty of managing a vast amount of digital content. This problem is common, particularly among the elderly and individuals with cognitive impairments. My personal motivation stems from a desire to leverage technology to enhance emotional well-being and preserve personal histories.
+LibraryLifeCloud AI addresses the challenge of memory decline and the difficulty of managing a vast amount of digital content. This problem is common, particularly among the elderly and individuals with cognitive impairments. My personal motivation stems from a desire to leverage technology to enhance emotional well-being and preserve personal histories.
 
 ## How is it used?
 
-LifeCloudRemember AI is utilized by individuals wanting to manage their digital lives, caregivers assisting loved ones with memory challenges, and therapists using it for therapeutic purposes. It functions in everyday life, continuously collecting data from devices, social media, and other sources.
+LibraryLifeCloud AI is utilized by individuals wanting to manage their digital lives, caregivers assisting loved ones with memory challenges, and therapists using it for therapeutic purposes. It functions in everyday life, continuously collecting data from devices, social media, and other sources.
 
 Users can:
 1. Ask the AI for specific memories or events, such as, “Show me my happiest moments from 2022.”
 2. Experience a narrated story of their life based on their collected memories.
 3. View a geographical map of key life events.
+4. Navigate through a virtual library where each book represents a year, with chapters for significant memories. Users can modify or add to these books, allowing for an evolving personal history.
 
+Library Icon: Shows shelves with books.
 
 ## Data sources and AI methods
 
-LifeCloudRemember AI collects data from various sources, including:
+LibraryLifeCloud AI collects data from various sources, including:
 - Personal devices (smartphones, smartwatches)
-- Media (photos, videos from Social media or cloud)
+- Media (photos, videos from social media or cloud)
 - Biometric data (heart rate, stress levels)
 - Text and voice conversations
 
@@ -40,7 +42,7 @@ The following AI methods are employed:
 
 ## Challenges
 
-LifeCloudRemember AI does not solve all memory-related issues. Limitations include:
+LibraryLifeCloud AI does not solve all memory-related issues. Limitations include:
 - Privacy concerns regarding sensitive personal data.
 - Potential bias and inaccuracies in AI interpretation.
 - The emotional complexity of human experiences, which may not be fully captured by technology.
@@ -61,6 +63,3 @@ Skills needed for growth include expertise in data security, emotional AI, and u
 - "The Notebook" (film): For the powerful concept of using storytelling to aid memory.
 - Snapchat: For its innovative approach to capturing and saving fleeting moments.
 - OpenAI: For the Natural Language Processing (NLP) technologies that could help analyze text and conversations.
-
-
-
